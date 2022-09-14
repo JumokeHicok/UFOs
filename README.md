@@ -9,7 +9,7 @@ Edit the javascript code to allow the user to filter the web page on the followi
 5. Shape
 
 ## Results
-#####Here are the steps for using the search criteria on the web page:
+##### Here are the steps for using the search criteria on the web page:
 
 - Scan through the data to get an idea of what you are searching through and what values are used for each criteria.
 - Add a value to any of the fields and hit enter or move the curser out of the box to filter the data.
@@ -20,10 +20,10 @@ Edit the javascript code to allow the user to filter the web page on the followi
     - Refresh the web page
     - Click the button at the top left labeled "UFO Sightings"
 
-#####Example using one filter:
+##### Example using one filter:
 ![Date Filter](/static/images/date.png)
 
-#####Example using two filters:
+##### Example using two filters:
 ![Date and State](/static/images/date_state.png)
 
 
